@@ -1,0 +1,27 @@
+Title/Author 28/03, Daniel Silva. 
+
+Hypothesis: 
+
+Implementation of multiple speech recognisers: WIT, BING, HOUNDIFY, GOOGLE, GOOGLE CLOUD, IBM WATSON.
+
+Experiment method: 
+Evaluate different ".wav" files in the Speech Rec and extract some insights on their general accuracy.
+
+
+Experiment result: 
+
+
+
+Validated learnings:
+
+
+
+
+
+
+
+Notes:
+
+
+
+
